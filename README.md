@@ -1,29 +1,7 @@
-[PERL] Kadd3chy v3 Bot  ☣ Website Vulnerability Scanner &amp; Auto Exploiter ☣ .
-        .                                                      .
-        .n                   .                 .                  n.
-  .   .dP                  dP                   9b                 9b.    .
- 4    qXb         .       dX                     Xb       .        dXp     t
-dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
-9XXb._       _.dXXXXb dXXXXbo.                 .odXXXXb dXXXXb._       _.dXXP
- 9XXXXXXXXXXXXXXXXXXXVXXXXXXXXOo.           .oOXXXXXXXXVXXXXXXXXXXXXXXXXXXXP
-  `9XXXXXXXXXXXXXXXXXXXXX'~   ~`OOO8b   d8OOO'~   ~`XXXXXXXXXXXXXXXXXXXXXP'
-    `9XXXXXXXXXXXP' `9XX'   DIE    `98v8P'  HUMAN   `XXP' `9XXXXXXXXXXXP'
-        ~~~~~~~       9X.          .db|db.          .XP       ~~~~~~~
-                        )b.  .dbo.dP'`v'`9b.odb.  .dX(
-                      ,dXXXXXXXXXXXb     dXXXXXXXXXXXb.
-                     dXXXXXXXXXXXP'   .   `9XXXXXXXXXXXb
-                    dXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb
-                    9XXb'   `XXXXXb.dX|Xb.dXXXXX'   `dXXP
-                     `'      9XXXXXX(   )XXXXXXP      `'
-                              XXXX X.`v'.X XXXX
-                              XP^X'`b   d'`X^XX
-                              X. 9  `   '  P )X
-                              `b  `       '  d'
-                               `             '
+[+] Auto Cms Detect
 
-[+] Auto CMS Detecter [+]
+[1] WordPress :
 
-[1] WordPress  :
 wpinstallcheck
 revslider
 addblockblocker
@@ -107,7 +85,8 @@ pinboard
 barclaycart
 wpinjection
 
-[2] Joomla Vuln : 
+[2] Joomla
+
 fox2
 b22j
 b2j
@@ -166,11 +145,13 @@ NovaSFH
 Jimtawl
 Proclaim
 
-[3] DruPal Vuln : 
+[3] DruPal
+
 drupal
 drupalgeddon
 
-[4] PrestaShop Vuln :
+[4] PrestaShop
+
 columnadverts
 soopamobile
 soopabanners
@@ -198,7 +179,8 @@ megamenu
 tdpsthemeoptionpanel
 psmodthemeoptionpanel
 masseditproduct
-}
+
+
 
 
 I Hope You Enjoy This Tool :D
