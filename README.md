@@ -1,7 +1,30 @@
-[+] Auto Cms Detect
+                              ,-.
+        ___,---.__          /'|`\          __,---,___
+     ,-'    \`    `-.____,-'  |  `-.____,-'    //    `-.
+   ,'        |           ~'\     /`~           |        `.
+  /      ___//              `. ,'          ,  , \___      \      
+ |    ,-'   `-.__   _         |        ,    __,-'   `-.    |    
+ |   /          /\_  `   .    |    ,      _/\          \   |
+ \  |           \ \`-.___ \   |   / ___,-'/ /           |  /
+  \  \           | `._   `\\  |  //'   _,' |           /  /
+   `-.\         /'  _ `---'' , . ``---' _  `\         /,-'
+      ``       /     \    ,='/ \`=.    /     \       ''
+              |__   /|\_,--.,-.--,--._/|\   __|
+              /  `./  \\`\ |  |  | /,//' \,'  \
+             /   /     ||--+--|--+-/-|     \   \
+            |   |     /'\_\_\ | /_/_/`\     |   |
+             \   \__, \_     `~'     _/ .__/   /
+              `-._,-'   `-._______,-'   `-._,-'
+			  
+#Author : Kadd3chy
+#Date : 27/06/2018
+#Version : 3,5
+#Bot Vulns : 200 And More Soon :D
 
-[1] WordPress :
 
+[+] Auto CMS Detecter [+]
+
+[1] WordPress Vuln :
 wpinstallcheck
 revslider
 addblockblocker
@@ -85,7 +108,7 @@ pinboard
 barclaycart
 wpinjection
 
-[2] Joomla
+[2] Joomla Vuln : 
 
 fox2
 b22j
@@ -145,12 +168,12 @@ NovaSFH
 Jimtawl
 Proclaim
 
-[3] DruPal
+[3] DruPal Vuln : 
 
 drupal
 drupalgeddon
 
-[4] PrestaShop
+[4] PrestaShop Vuln :
 
 columnadverts
 soopamobile
@@ -181,13 +204,12 @@ psmodthemeoptionpanel
 masseditproduct
 
 
-
-
-I Hope You Enjoy This Tool :D
+I hope You Enjoy This Tool ♥
 
 Contact Me :
-Icq : 729325418
+ICQ : 729325418
 Facebook : fb.me/Kadd3chy.phtml
 Mail : moat3z.kadd3chy@gmail.com
 Instagram : instagram.com/Kadd3chy/
 Skype : moatez.kaddchy2
+YouTube Channel : https://www.youtube.com/channel/UCOoDkpd9aB4Z-bCxXncGh9g
